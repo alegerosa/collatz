@@ -10,5 +10,5 @@ The program prints all steps and finally prints how many steps it took to get to
 
 Originally written in 2016, it was inspired by this [Someecards post](https://www.someecards.com/life/school/collatz-conjecture/).
 
-This was my first program and my first Python script that wasn't directly following instructions from the Internet, so it's only fitting that it also becomes my first GitHub repository :heart:
+This was my first program and also my first Python script that I wrote myself (i.e. not homework), so it's only fitting that it also becomes my first GitHub repository :heart:
 
